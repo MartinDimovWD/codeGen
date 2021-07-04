@@ -1,0 +1,15 @@
+{
+    "campaignName": "Black Friday Week",
+    "campaignAbr": "BLFRW'", 
+    "description": "This week, you have a discount on all of our products'",
+    "startDate": "new Date(2021, 10, 19,)",
+    "endDate": "new Date(2021, 10, 27)",
+    "isRunning": false, 
+    "discount": 0.15,
+    "codeCount": 150,
+    "validCodes": [],
+    "usedCodes":[],
+    "expiredCodes": [],
+    "countUsed": 0
+    
+}
